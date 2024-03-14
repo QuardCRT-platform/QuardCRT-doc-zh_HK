@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="../../en/latest/installation.html">🇺🇸 English</a> | <a href="../../zh-cn/latest/installation.html">🇨🇳 简体中文</a> | <a href="../../zh-tw/latest/installation.html">🇭🇰 繁體中文</a> | <a href="../../ja/latest/installation.html">🇯🇵 日本語</a></div>
+
 # 安装
 
 QuardCRT 是一個跨平台的終端模擬器，它支援 Windows、MacOS 和 Linux。 你可以根據你的平台下載對應的套件。
@@ -38,8 +40,9 @@ QuardCRT 是一個跨平台的終端模擬器，它支援 Windows、MacOS 和 Li
 1. 選擇語言，然後點選 `確定`。
 2. 點選 `下一步`。
 3. 選擇安裝目錄，然後點選 `下一步`。
-4. 點選 `安裝`。
-5. 點選 `完成`。
+4. 選擇創建桌面快捷方式，然後點選 `下一步`。
+5. 點選 `安裝`。
+6. 點選 `完成`。
 
 ### MacOS
 

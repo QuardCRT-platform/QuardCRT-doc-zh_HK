@@ -66,13 +66,14 @@ quardCRT是一款終端模擬和遠端桌面軟體，支援多種後端協議，
 ----------------------------------
 
 - **跨平台**: Windows, MacOS, Linux
-- **多種協議**: SSH, Telnet, SFTP, Serial, VNC, LocalShell, RawSocket, NamedPipe
+- **多種協議**: SSH, Telnet, Serial, LocalShell, RawSocket, NamedPipe, VNC
 - **多會話**: 多標籤，多窗口，多監視器，浮動窗口
 - **多語言**: 簡體中文，繁體中文，英語，日語，韓語，西班牙語，法語，俄語，德語，葡萄牙語(巴西)，捷克語，阿拉伯語
 - **多主題**: 亮色，暗色
 - **會話歷史管理**: 會話歷史管理，會話歷史搜索
 - **會話管理**: 會話管理，會話導入導出
 - **HEX顯示**: HEX顯示
+- **文件傳輸**: SFTP, Xmodem, Ymodem, Zmodem, Kermit
 - **腳本**: 腳本錄製，腳本回放
 - **終端定制**: 終端字體，顏色，大小，光標，回滾，背景等
 

@@ -106,6 +106,8 @@ quardCRT將從V0.4.0版本開始支持插件，插件將以Qt插件的形式提�
    安裝<installation.md>
    使用<usage.md>
    配置<configuration.md>
+   腳本<scripts.md>
+   插件<plugins.md>
    常見問題<faq.md>
    貢獻<contributing.md>
    更新日誌<changelog.md>

@@ -88,7 +88,8 @@ sudo dpkg -i quardCRT_Linux_Vxxx_x86_64.deb
 
 我們也在其他應用程式商店提供 QuardCRT，你可以從應用程式商店下載。 通常安裝步驟更加方便。 現在我們提供以下應用程式商店：
 
-- Deepin Store
+- [Microsoft Store](https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct)
 - [Spark Store](https://www.spark-app.store/store/application/quardcrt)
+- Deepin Store
 
 我們將在未來添加更多的應用程式商店。

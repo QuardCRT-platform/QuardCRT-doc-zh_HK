@@ -42,7 +42,7 @@ quardCRT
    :target: https://gitee.com/QQxiaoming/quardCRT
    :alt: Gitee forks
 
-quardCRT是一款終端模擬和遠端桌面軟體，支援多種後端協議，可無依賴地跨平台使用，在windows/linux/mac上具有完全一致的使用者體驗。支援多標籤、歷史管理等傳統終端軟體功能，並支援一些獨特的細節功能。
+quardCRT一款多功能終端模擬/圖形桌面軟體，支援多種後端協議，無依賴跨平台使用，windows/linux/mac使用體驗完全一致，支援多標籤頁和歷史記錄管理等傳統終端軟體功能，同時支援一些獨具特色的細節功能。quardCRT的設計宗旨是創建盡可能用戶友好、功能豐富、且跨平台一致性體驗的終端軟體，相比很多專業高性能終端，quardCRT會更適合入門、輕度用戶快速的配置好所需的終端環境，但這也並不意味quardCRT不追求高性能。
 
 .. list-table:: 
    :widths: 33 33 33

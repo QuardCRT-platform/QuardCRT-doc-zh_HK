@@ -2,7 +2,19 @@
 
 # 安装
 
-QuardCRT 是一個跨平台的終端模擬器，它支援 Windows、MacOS 和 Linux。 你可以根據你的平台下載對應的套件。
+QuardCRT 是一個跨平台的終端模擬器，它支援 Windows、MacOS 和 Linux。如果可能的話，我們首先建議你通過本地平台的官方應用商店安裝 QuardCRT。
+
+## 應用商店
+
+QuardCRT 現在在以下應用商店提供。
+
+- [![Microsoft Store](https://get.microsoft.com/images/zh-tw%20dark.svg)](https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct)
+- [Spark Store](https://www.spark-app.store/store/application/quardcrt)
+- Deepin Store
+
+未來會在更多應用商店可用，敬請期待。
+
+當然，你也可以根據你的平台下載對應的安裝包。
 
 ## 下載
 
@@ -83,13 +95,3 @@ chmod +x quardCRT_Linux_Vxxx_x86_64.AppImage
 ```bash
 sudo dpkg -i quardCRT_Linux_Vxxx_x86_64.deb
 ```
-
-## 其他應用程式商店
-
-我們也在其他應用程式商店提供 QuardCRT，你可以從應用程式商店下載。 通常安裝步驟更加方便。 現在我們提供以下應用程式商店：
-
-- [Microsoft Store](https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct)
-- [Spark Store](https://www.spark-app.store/store/application/quardcrt)
-- Deepin Store
-
-我們將在未來添加更多的應用程式商店。

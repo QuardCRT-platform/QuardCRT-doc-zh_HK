@@ -96,6 +96,9 @@ quardCRT一款多功能終端模擬/圖形桌面軟體，支援多種後端協�
 - 路徑匹配一鍵直達
 - 工作路徑直達
 - Windows本地終端增強（Tab鍵選擇完整命令等）
+- 廣播會議
+- 會話標籤標記顏色
+- 區塊選擇（Shift+點擊）和列選擇（Alt+Shift+點擊）
 
 ----------------------------------
 插件
@@ -110,6 +113,26 @@ quardCRT從V0.4.0版本開始支持插件，插件將以Qt插件的形式提供�
 .. image:: https://get.microsoft.com/images/zh-tw%20dark.svg
    :target: https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct
    :alt: Microsoft Store
+
+----------------------------------
+捐赠
+----------------------------------
+
+如果您覺得本項目對您有幫助，您可以通過以下方式捐赠：
+
+.. list-table:: 
+   :widths: 33 33 33
+   :header-rows: 0
+
+   * - .. image:: ./img/donate/paypal.jpg
+          :align: center
+     - .. image:: ./img/donate/alipay.jpg
+          :align: center
+     - .. image:: ./img/donate/wechat.jpg
+          :align: center
+   * - paypal
+     - alipay
+     - wechat
 
 .. toctree::
    :maxdepth: 3

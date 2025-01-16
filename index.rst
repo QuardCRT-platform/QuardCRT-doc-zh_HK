@@ -114,6 +114,10 @@ quardCRT從V0.4.0版本開始支持插件，插件將以Qt插件的形式提供�
    :target: https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct
    :alt: Microsoft Store
 
+- .. image:: https://www.spark-app.store/assets/favicon-96x96-BB0Q9LsV.png
+   :target: https://spk-resolv.spark-app.store/?spk=spk://store/development/quardcrt
+   :alt: Spark Store
+
 ----------------------------------
 捐赠
 ----------------------------------

@@ -69,6 +69,20 @@ quardCRT 可以錄製互動式終端操作，並生成一個可作為起點的 P
 
 如果你想清空這個清單，可以使用 `清空所有最近腳本`。
 
+## 此倉庫中的示例腳本
+
+此倉庫也在 `test/scriptengine/` 目錄下提供了一些可直接執行與修改的小型示例腳本。
+
+較適合作為起點的示例包括：
+
+- `test/scriptengine/session/prompted_ssh2.py`：提示輸入主機、連接埠、使用者名稱與密碼，然後透過 SSH2 連線
+- `test/scriptengine/session/prompted_telnet_login.py`：透過 Telnet 連線，並藉由等待 login、password 與 shell 提示字元來完成登入流程
+- `test/scriptengine/screen/send_command_and_capture.py`：向目前活動工作階段傳送命令，並持續讀取輸出直到匹配到提示字元
+- `test/scriptengine/screen/save_screen_to_file.py`：將目前可見畫面文字儲存到本地檔案
+- `test/scriptengine/misc/repeat_command_logger.py`：重複執行同一條命令多次，並將每一輪輸出保存到日誌檔
+- `test/scriptengine/tab/send_to_all_sessions.py`：向目前活動標籤群組中的所有工作階段傳送同一條命令
+- `test/scriptengine/filetransfer/zmodem_upload_dialog.py`：選取本地檔案並啟動一次 Zmodem 上傳
+
 ## 第一個範例
 
 以下是一個最小範例，用於在訊息框中顯示 quardCRT 版本資訊。
@@ -267,7 +281,7 @@ session = crt.Session
 - `Screen.Print()`
 - `Screen.Shortcut(path: str)`
 - `Screen.SendKeys(keylist: list[str])`
-- `Screen.Screen_ReadString(...)`
+- `Screen.ReadString(...)`
 - `Screen.WaitForCursor(...)`
 - `Screen.WaitForKey(...)`
 
